@@ -1,10 +1,10 @@
 {
-    "UpdateURL": "",
-    "AdsManagerURL": "",
-    "MoreGameURL": "",
-    "MoreGameDataURL": "",
+    "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/UpgradeData.json",
+    "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/AdsDATA.json",
+    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/MoreGame.json",
+    "MoreGameDataURL": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/MoreGameData.json",
     "OneSignalPushId": "",
-    "feedbackEmail": "[Your feedback mail]",
+    "feedbackEmail": "bouhaili.24@gmail.com",
     "Appelink": "[Your application store link]",
     "privacyURL": ""
 }
