@@ -7,10 +7,10 @@
     "interstitialAdUnit": "DefaultInterstitial",
     "rewardedVideoAdUnit": "DefaultRewardedVideo",
     "EnableOnerAds": 0,
-    "AdsUrl": "",
-    "ImageUrl": "https://appgallery.huawei.com/app/C105010921",
-    "Description": "https://raw.githubusercontent.com/FBGDFB/Ball_Sort/main/Huawei/FullScreenAds/sudokoFull.png",
-    "Title": "Play the classic paper and pencil puzzle game right on your phone or tablet! Enjoy a timeless classic whether you're a beginner or an expert with our simple and elegant design.Challenge your problem-solving skills ",
+    "AdsUrl": "https://appgallery.huawei.com/app/C105010921",
+    "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/Ball_Sort/main/Huawei/FullScreenAds/sudokoFull.png",
+    "Description": "Play the classic paper and pencil puzzle game right on your phone or tablet! Enjoy a timeless classic whether you're a beginner or an expert with our simple and elegant design.Challenge your problem-solving skills ",
+    "Title": "Sudoko LITE",
     "ImageADS": {
         "instanceID": 0
     },
