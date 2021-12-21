@@ -1,17 +1,11 @@
 { 
-    "Virtion": 1,
+    "Virtion": 2,
     "Data": [
         {
             "Name": "",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/Squid%20Game.jpg",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Huawei%20Ads/unnamed.png",
             "GameUrl": "",
             "Stars": 5
-        },
-        {
-            "Name": " ",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/Squid%20Game.png",
-            "GameUrl": "",
-            "Stars": 3
         },
         {
             "Name": "",
