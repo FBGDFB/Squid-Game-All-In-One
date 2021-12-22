@@ -7,7 +7,7 @@
     "bannerAdUnit": "e7rudmxu9j",
     "interstitialAdUnit": "s2a0n4ygjl",
     "rewardedVideoAdUnit": "q7w6qhy4f2",
-    "EnableOnerAds": 0,
+    "EnableOnerAds": 1,
     "AdsUrl": "https://appgallery.huawei.com/app/C105010921",
     "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/Ball_Sort/main/Huawei/FullScreenAds/sudokoFull.png",
     "Description": "Play the classic paper and pencil puzzle game right on your phone or tablet! Enjoy a timeless classic whether you're a beginner or an expert with our simple and elegant design.Challenge your problem-solving skills ",
@@ -15,7 +15,7 @@
     "ImageADS": {
         "instanceID": 0
     },
-    "EnableOnerNative": 0,
+    "EnableOnerNative": 1,
     "NativeAdsUrl": "https://appgallery.huawei.com/app/C105010921",
     "NativeImageUrl": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/Sudoku.png",
     "NativeDescription": "Play the classic paper and pencil puzzle game right on your phone",
