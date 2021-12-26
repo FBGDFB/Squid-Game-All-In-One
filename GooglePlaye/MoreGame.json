@@ -1,15 +1,21 @@
 [
   {
-       "Name":"Sudoku Master",
-       "Description":"Classic Sudoku the puzzle game for your brain, logical thinking, memory",
-       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/b7596c24c55f42d6b6f409175ef6f0c3.png",
-       "GameUrl":"https://appgallery.huawei.com/app/C105010921"
+       "Name":"Squid Game Rublox",
+       "Description":"Can you survive from games? Red Light Green Light!",
+       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GameAds/Squidgame3.png",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.YaznGame.SquidGameRublox3D2021"
    },
   {
-       "Name":"Sort Candy Bobbles",
-       "Description":"From  the legendary Dreaming Boy comes Sort Candy Bobbles Saga! Unique candies",
-       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/78a4e5be4be540588f88985a0b347711.png",
-       "GameUrl":"https://appgallery.huawei.com/app/C105039399"
+       "Name":"survival Squid Game",
+       "Description":"Finish or Die! Winner takes it all! There is only one rule, don’t get eliminated",
+       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GameAds/Squidgame2.png",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.YaznGame.dollwatchingSquidGameheros3D"
    }
-  
+  ,
+  {
+       "Name":"Squid Game",
+       "Description":"Tempered Glass Game you will jump on a glass floor tile",
+       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GameAds/Squidgame1.png",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.YazenGame.SquidGameGlassStepping"
+   }
 ]
