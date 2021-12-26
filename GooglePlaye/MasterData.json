@@ -3,7 +3,7 @@
     "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/Huawei/AdsDATA.json",
     "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/MoreGame.json",
     "MoreGameDataURL": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/MoreGameData.json",
-    "OneSignalPushId": "",
+    "OneSignalPushId": "50355a52-1c0c-474c-a3a0-8e7165dbbd02",
     "feedbackEmail": "bouhaili.24@gmail.com",
     "Appelink": "[Your application store link]",
     "privacyURL": ""
