@@ -1,7 +1,7 @@
 {
     "Virtion": "v1.0.0",
     "OfferWellappKey": "1260a05bd",
-    "EnableOfferWell": 0,
+    "EnableOfferWell": 1,
     "UseTestMode": false,
     "appKey": "1260a05bd",
     "bannerAdUnit": "testw6vs28auh3",
@@ -23,4 +23,6 @@
     "NativeImageADS": {
         "instanceID": 0
     }
+    
+     
 }
