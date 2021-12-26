@@ -2,27 +2,9 @@
     "Virtion": 1,
     "Data": [
         {
-            "Name": "rth",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/Squid%20Game.png",
-            "GameUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/Squid%20Game.png",
-            "Stars": 5
-        },
-        {
-            "Name": "rt",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/ff.jpg",
-            "GameUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/ff.jpg",
-            "Stars": 2
-        },
-        {
-            "Name": "rth",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/maxresde.jpg",
-            "GameUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/maxresde.jpg",
-            "Stars": 5
-        },
-        {
-            "Name": "rth",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/maxresde.jpg",
-            "GameUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/maxresde.jpg",
+            "Name": "",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Huawei%20Ads/unnamed.png",
+            "GameUrl": "",
             "Stars": 5
         }
     ]
