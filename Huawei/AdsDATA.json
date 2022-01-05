@@ -1,8 +1,8 @@
 {
-    "Virtion": "v1.0.1",
+    "Virtion": "v1.0.2",
     "OfferWellappKey": "1260a05bd",
     "EnableOfferWell": 1,
-    "UseTestMode": true,
+    "UseTestMode": false,
     "appKey": "1260a05bd",
     "bannerAdUnit": "e7rudmxu9j",
     "interstitialAdUnit": "s2a0n4ygjl",
