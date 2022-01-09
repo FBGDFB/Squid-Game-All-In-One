@@ -11,11 +11,5 @@
        "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GameAds/Squidgame2.png",
        "GameUrl":"https://play.google.com/store/apps/details?id=com.YaznGame.dollwatchingSquidGameheros3D"
    }
-  ,
-  {
-       "Name":"Squid Game",
-       "Description":"Tempered Glass Game you will jump on a glass floor tile",
-       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GameAds/Squidgame1.png",
-       "GameUrl":"https://play.google.com/store/apps/details?id=com.YazenGame.SquidGameGlassStepping"
-   }
+ 
 ]
