@@ -1,12 +1,13 @@
 { 
-    "Virtion": 2,
+    "Virtion": 3,
     "Data": [
-        {
+         {
             "Name": "",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Huawei%20Ads/unnamed.png",
-            "GameUrl": "",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Ads/puppy2.jpg",
+            "GameUrl": "https://appgallery.huawei.com/app/C105390661",
             "Stars": 5
         },
+        
         {
             "Name": "",
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/Squid%20Game2.jpg",
