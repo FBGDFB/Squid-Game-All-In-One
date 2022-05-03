@@ -11,6 +11,12 @@
        "Description":"Squid Challenge game is a classic jumping game that's easy to play",
        "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GameAds/sqoud.jpg",
        "GameUrl":"https://play.google.com/store/apps/details?id=com.GamePlay.SquidChallangeGlassStepping"
+   },
+   {
+       "Name":"jeu de calmar",
+       "Description":"Le jeu Squid est un jeu royal de survie en 3D basé sur l'action et l'aventure.",
+       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/calmar.jpg",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.SquidGame.jeudecalmar3D.toutecalmars.Guid.poppyGame"
    }
  
 ]
