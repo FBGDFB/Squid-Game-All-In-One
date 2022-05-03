@@ -13,10 +13,10 @@
        "GameUrl":"https://play.google.com/store/apps/details?id=com.GamePlay.SquidChallangeGlassStepping"
    },
    {
-       "Name":"jeu de calmar",
-       "Description":"Le jeu Squid est un jeu royal de survie en 3D basé sur l'action et l'aventure.",
-       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/calmar.jpg",
-       "GameUrl":"https://play.google.com/store/apps/details?id=com.SquidGame.jeudecalmar3D.toutecalmars.Guid.poppyGame"
+       "Name":"Squid Challenge",
+       "Description":"Play a game squid sequential series of simple, quick battle games",
+       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye2/SquidChallenge.jpg",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.OfflineGames.SquidGame.Compition.SquidJeux"
    }
  
 ]
