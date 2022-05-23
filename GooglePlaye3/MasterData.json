@@ -1,8 +1,8 @@
 {
-    "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/UpgradeData.json",
-    "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/AdsDATA.json",
-    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/MoreGame.json",
-    "MoreGameDataURL": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/MoreGameData.json",
+    "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye3/UpgradeData.json",
+    "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye3/AdsDATA.json",
+    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye3/MoreGame.json",
+    "MoreGameDataURL": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye3/MoreGameData.json",
     "OneSignalPushId": "50355a52-1c0c-474c-a3a0-8e7165dbbd02",
     "feedbackEmail": "mailto:byassine193@gmail.com",
     "Appelink": "https://play.google.com/store/apps/details?id=com.squid.runner.survival.challenges.AllGames",
