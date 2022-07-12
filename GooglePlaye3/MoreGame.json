@@ -1,4 +1,10 @@
 [ 
+     {
+       "Name":"merge master",
+       "Description":"Still looking for a dinosaur game? Why don't you download Merge Master Dinosaur",
+       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/1082/c173b16a1ff64f94aaf52b31faf2fb6c.png",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.dreamingboy.mergemaster"
+   },
     {
        "Name":"Guess The Drawing",
        "Description":"Let's put your creativity and guess drawing skill to a test !,",
