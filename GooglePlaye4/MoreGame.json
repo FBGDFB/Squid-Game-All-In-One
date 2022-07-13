@@ -1,0 +1,40 @@
+[
+    {
+       "Name":"merge master",
+       "Description":"Still looking for a dinosaur game? Why don't you download Merge Master Dinosaur",
+       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/1082/c173b16a1ff64f94aaf52b31faf2fb6c.png",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.dreamingboy.mergemaster"
+   },
+   {
+       "Name":"Guess The Drawing",
+       "Description":"Let's put your creativity and guess drawing skill to a test !,",
+       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/ADS/GuessTheDrawing.png",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.DreamingBoy.GuessTheDrawing"
+   },
+  {
+       "Name":"Poppy Money",
+       "Description":"This game is far beyond an ordinary poor or rich run race. Earn money.",
+       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GameAds/ordinary.jpg",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.GamePlay.PopiMoneyPlaytime"
+   },
+ 
+   {
+       "Name":"Scary Teacher Video Call",
+       "Description":"Now you can easily receive phone calls and video calls from the scary teacher",
+       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Ads/ScaryTeasher.png",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.yazengame.scaryteachers.video.prank"
+   },
+   {
+       "Name":"Squid Challenge",
+       "Description":"Squid Challenge game is a classic jumping game that's easy to play",
+       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GameAds/sqoud.jpg",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.GamePlay.SquidChallangeGlassStepping"
+   },
+   {
+       "Name":"jeu de calmar",
+       "Description":"Le jeu Squid est un jeu royal de survie en 3D basé sur l'action et l'aventure.",
+       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/calmar.jpg",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.SquidGame.jeudecalmar3D.toutecalmars.Guid.poppyGame"
+   }
+ 
+]
