@@ -1,5 +1,11 @@
 [
     {
+       "Name":"Island Wars",
+       "Description":"Welcome to Island Wars : Commander, the Dark Legion is coming!",
+       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/1082/e4513235efc2480f944f731b9656af84.png",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.DreamingBoy.islandwars"
+   },
+    {
        "Name":"merge master",
        "Description":"Still looking for a dinosaur game? Why don't you download Merge Master Dinosaur",
        "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/1082/c173b16a1ff64f94aaf52b31faf2fb6c.png",
