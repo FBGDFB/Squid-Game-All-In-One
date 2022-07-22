@@ -16,10 +16,10 @@
         "instanceID": 0
     },
     "EnableOnerNative": 0,
-    "NativeAdsUrl": "https://play.google.com/store/apps/details?id=com.YaznGame.dollwatchingSquidGameheros3D",
-    "NativeImageUrl": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GameAds/Squidgame2.png",
-    "NativeDescription": "Finish or Die! Winner takes it all! There is only one rule, don’t get eliminated.",
-    "NativeTitle": "Run Challenge",
+    "NativeAdsUrl": "https://play.google.com/store/apps/details?id=com.DreamingBoy.islandwars",
+    "NativeImageUrl": "https://appimg2.dbankcdn.com/application/icon144/1082/e4513235efc2480f944f731b9656af84.png",
+    "NativeDescription": "Welcome to Island Wars : Commander, the Dark Legion is coming!",
+    "NativeTitle": "Island Wars",
     "NativeImageADS": {
         "instanceID": 0
     }
